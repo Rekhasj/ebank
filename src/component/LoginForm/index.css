@@ -1,0 +1,28 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #152850;
+}
+.login-card {
+  display: flex;
+  background-color: #e0eefe;
+  border-radius: 10px;
+  height: 70%;
+  width: 50%;
+}
+.login-image {
+  height: 100%;
+  width: 60%;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 100%;
+  width: 60%;
+}
